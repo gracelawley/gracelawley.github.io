@@ -1,4 +1,4 @@
-name: Publish Quarto site
+name: Quarto Site Build and Deploy - Artifact Pattern
 
 on:
   workflow_dispatch:
